@@ -1,0 +1,15 @@
+.header{
+	background-color: #333;
+	padding: 3px;
+	width: 100%;
+	position: fixed;
+	overflow: hidden;
+}
+
+
+.mid,.section{
+	padding: 50px;
+}
+.section{
+	padding-top: 40px;
+}
